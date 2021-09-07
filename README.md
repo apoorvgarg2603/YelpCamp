@@ -1,4 +1,4 @@
-                                                                       YELPCAMP
+                                                                    YELPCAMP
 A Campground Booking website. It gives an variety of option to go for a camping trips, You can see the location of the campground, compare between 
 different campgrounds.
 
